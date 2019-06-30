@@ -7,18 +7,18 @@
 Services:
 ----------
 Get all employees :-
-1.http://host..../api/employees
+1.http://{hostname}/api/employees
 
 Get Single employee by Id :-
-2.http://localhost:8081/api/employees/{X}
+2.http://{hostname}/api/employees/{X}
 
 Sort by name :-
-3.http://localhost:8081/api/employees/name/{XXXXX}
+3.http://{hostname}/api/employees/name/{XXXXX}
 
 Sort by salary :-
-4.http://localhost:8081/api/employees/salary/{XXX.XX}
+4.http://{hostname}/api/employees/salary/{XXX.XX}
 
 Sort by hiredate :-
-5.http://localhost:8081/api/employees/hiredate/{dd-MM-yyyy}
+5.http://{hostname}/api/employees/hiredate/{dd-MM-yyyy}
 
 
